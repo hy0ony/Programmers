@@ -11,7 +11,7 @@ public class Crane {
 		int[] moves = {1,5,3,5,1,2,1,4};
 		int[] inBoard;
 
-		// �ٱ��� �迭
+		// ¹Ù±¸´Ï ¹è¿­
 		ArrayList<Integer> basket = new ArrayList<Integer>();
 
 		for(int i=0; i<moves.length; i++) {
