@@ -6,4 +6,4 @@
 
 ## Contents
 
-- [Level 1](https://github.com/hy0ony/programmers/tree/main/Programmers/src/level1)
+- [Level 1](https://github.com/hy0ony/programmers/tree/main/src/level1)
